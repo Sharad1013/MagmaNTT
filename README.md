@@ -1,2 +1,3 @@
 # MagmaNTT
 CERTIFY YOUR BUILDING AS A DIGITAL TWIN TOKEN (DTT®)
+Author -- Sharad Sinha
